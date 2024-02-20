@@ -307,5 +307,7 @@ header::after {
     header {
         height: initial;
     }
-    
+    .footer {
+        margin: 4em auto 2em auto;
+    }
 }
